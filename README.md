@@ -35,12 +35,9 @@ The screenshot uses fictional usernames and Thread IDs. The session ID is intent
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/instagram-dm-bulk-unsender.git
-cd instagram-dm-bulk-unsender
+git clone https://github.com/mnhx/instagram-dm-unsender.git
+cd instagram-dm-unsender
 pip install -r requirements.txt
-```
-
-Replace `YOUR_USERNAME` with your GitHub username after publishing the repository.
 
 ## How to get your `sessionid`
 
