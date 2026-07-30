@@ -32,13 +32,6 @@ The screenshot uses fictional usernames and Thread IDs. The session ID is intent
 - An Instagram account you own
 - A valid `sessionid` for that account
 
-## Installation
-
-```bash
-git clone https://github.com/mnhx/instagram-dm-unsender.git
-cd instagram-dm-unsender
-pip install -r requirements.txt
-```
 ## How to get your `sessionid`
 
 > [!CAUTION]
