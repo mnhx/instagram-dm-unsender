@@ -224,6 +224,3 @@ This project is not affiliated with, endorsed by, or supported by Instagram or M
 
 Use it at your own risk. The author is not responsible for lost messages, rate limits, checkpoints, restrictions, suspension, or other account consequences.
 
-## License
-
-This project is licensed under the MIT License.
